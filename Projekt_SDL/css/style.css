@@ -1,0 +1,16 @@
+body{
+    z-index: 1;
+    position: absolute;
+}
+
+#button{
+    z-index: 1;
+    margin-top: 10px;
+    left: 10px;
+}
+
+#button{
+    z-index: 2;
+    margin-top: 10px;
+    left: 10px;
+}
