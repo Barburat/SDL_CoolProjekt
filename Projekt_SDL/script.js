@@ -3,7 +3,7 @@ function init(){
     document.getElementById("button").addEventListener("click", clicked1)
     document.getElementById("button").style.display="block";
     document.getElementById("button2").addEventListener("click", clicked2)
-    document.getElementById("button2").style.display="none";
+    document.getElementById("button2").style.display="block";
 }
 
 function clicked1(){

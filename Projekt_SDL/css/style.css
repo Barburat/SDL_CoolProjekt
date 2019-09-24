@@ -11,12 +11,12 @@ body{
     
 }
 
-#gameSceen{
+#scene1{
     position: absolute;
     z-index: 1;
 }
 
-#div1{
+#scene2{
     position: absolute;
     z-index: 2;
 }
